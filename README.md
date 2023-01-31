@@ -1,5 +1,12 @@
-APP DE CLIMA EN CONSOLA
+# APP DE CLIMA EN CONSOLA
 
-///
-node app.js
-///
+### Notas:
+Recuerden reconstruir los modulos de Node
+```
+npm install
+```
+
+Iniciar app
+```
+npm run start
+```
